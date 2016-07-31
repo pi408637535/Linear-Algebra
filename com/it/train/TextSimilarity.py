@@ -1,7 +1,7 @@
 import numpy as np
 import  jieba
 import  copy
-import codecs,sys
+import codecs
 
 ftest1fn = "D:\Tempory\mobile2.txt"
 ftest2fn = "D:\Tempory\war2.txt"
